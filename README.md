@@ -9,5 +9,5 @@
 - Untrained
 
 ## Tau analysis
-- calculate semi-partial tau_b between neural RDM and model layer RDM while controlling for previous model layers
+- Calculate semi-partial tau_b between neural RDM and model layer RDM while controlling for previous model layers
 - BIC for model selection 
